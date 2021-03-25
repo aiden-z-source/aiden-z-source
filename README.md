@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aiden Z and I'm learning to code. I'm from America, living in Florida and currently working on little fun projects.
+My name is Aiden Z and I'm learning to code. I'm from Florida, living in Homosassa and currently working on little fun projects.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=008000)
