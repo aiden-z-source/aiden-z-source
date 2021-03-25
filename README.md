@@ -10,4 +10,6 @@ My name is Aiden Z and I'm learning to code. I'm from America, living in Florida
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-z-source)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/aiden-z-source/aiden-z-source">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden-z-source&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
