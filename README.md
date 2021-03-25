@@ -7,6 +7,9 @@ My name is Aiden Z and I'm learning to code. I'm from America, living in Florida
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=008000)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=008000)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=008000)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=008000)
 
 ## &#x1f4c8; GitHub Stats
 
