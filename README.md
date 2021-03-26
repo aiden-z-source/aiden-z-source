@@ -10,6 +10,7 @@ My name is Aiden Z and I'm a Self-taught developer. I'm from Florida, living in 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=008000)
+![](https://img.shields.io/badge/Shell-Windows Terminal-informational?style=flat&logo=Windows Terminal&logoColor=white&color=008000)
 
 ## &#x1f4c8; GitHub Stats
 
