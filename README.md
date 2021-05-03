@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/aiden-z-source/aiden-z-source/main/wave.gif" width="30px">
 
 My name is Aiden Z and I'm a Self-taught developer. I'm from Florida, living in Homosassa and currently working on personal projects.
 
